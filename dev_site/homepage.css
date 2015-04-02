@@ -20,7 +20,7 @@ html {
 ---------------*/
 
 #home .masthead {
-  background-image: url(http://joplinmakers.org/bg.jpg);
+  background-image: url(images/wallpaper.png);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -38,8 +38,7 @@ html {
 
 }
 #home .masthead .image {
-  
-
+	margin-bottom: 50px;
 }
 
 /*--------------
